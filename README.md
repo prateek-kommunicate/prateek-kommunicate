@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔗 Check out my original account: [prateek-singh-3212](https://github.com/prateek-singh-3212)
+
+
 <!--
 **prateek-kommunicate/prateek-kommunicate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
